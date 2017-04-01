@@ -3,6 +3,12 @@ Personal [Alfred 3](https://www.alfredapp.com/) workflows collection
 
 ## Workflows
 
+### [Can I Use](https://github.com/willfarrell/alfred-caniuse-workflow) (v1.9) ~ by [@willfarrell](https://github.com/willfarrell)
+
+Command: `caniuse`
+
+<img width="540" alt="caniuse-command" src="https://cloud.githubusercontent.com/assets/4418131/24582897/f5ff9cc6-1710-11e7-997c-7d7810e24b73.png">
+
 ### [GitHub](https://github.com/gharlan/alfred-github-workflow) (v1.5) ~ by [@gharlan](https://github.com/gharlan/)
 
 Command: `gh`
