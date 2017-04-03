@@ -9,6 +9,14 @@ Command: `caniuse`
 
 <img width="540" alt="caniuse-command" src="https://cloud.githubusercontent.com/assets/4418131/24582897/f5ff9cc6-1710-11e7-997c-7d7810e24b73.png">
 
+### [Fakeum](https://github.com/deanishe/alfred-fakeum) (v1.2) ~ by [@deanishe](https://github.com/deanishe)
+
+Generate fake test data with locales configuration
+
+Commands: `fake [query], fakeconfig [location]`
+
+<img width="540" alt="caniuse-command" src="https://cloud.githubusercontent.com/assets/4418131/24609272/92cd13e0-1850-11e7-9c35-e90f10e27d23.png">
+
 ### [GitHub](https://github.com/gharlan/alfred-github-workflow) (v1.5) ~ by [@gharlan](https://github.com/gharlan/)
 
 Command: `gh`
