@@ -25,6 +25,12 @@ Command: `gh`
 
 <img width="540" alt="gh-my-command" src="https://cloud.githubusercontent.com/assets/4418131/24582614/e73d67c4-1709-11e7-9378-b427fbe44b56.png">
 
+### [Kill Process](https://github.com/ngreenstein/alfred-process-killer) (v1.2) ~ by [@ngreenstein](https://github.com/ngreenstein/)
+
+Command: `kill [process-name]`
+
+<img width="540" alt="kill-process-command" src="https://cloud.githubusercontent.com/assets/4418131/24755694/92287aca-1ab1-11e7-9492-8c9f5cabc42a.png">
+
 ### [What's My IP](http://www.packal.org/workflow/whats-my-ip) (v1.0) ~ by [@shawnrice](https://github.com/shawnrice)
 
 Command: `ip`
